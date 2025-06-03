@@ -52,8 +52,9 @@ function App() {
           },
           progress: 100,
           updates: [
-            { date: "2023-22-12", content: "Website Published" },
-            { date: "2023-03-12", content: "The project was completed and displayed in front of the congregation and church management." },
+            { date: "2023-12-22", content: "Website Published" },
+            { date: "2023-12-03", content: "The project was completed and displayed in front of the congregation and church management." },
+            { date: "2023-10-24", content: "The project was initiated" },
           ],
           image: "/santobarnabas.png",
         },
