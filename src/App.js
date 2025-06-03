@@ -69,8 +69,9 @@ function App() {
           },
           progress: 100,
           updates: [
-            { date: "2023-05-21", content: "Featured At UMN Figma Prototype Exhibition" },
-            { date: "2023-05-20", content: "Overall Completed Prototype" },
+            { date: "2024-05-21", content: "Featured At UMN Figma Prototype Exhibition" },
+            { date: "2024-05-20", content: "Overall Completed Prototype" },
+            { date: "2024-03-25", content: "Project Initiated" },
           ],
           image: "/bazaarspot.png",
         },
