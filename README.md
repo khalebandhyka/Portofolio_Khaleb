@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 Hello! My Name is Khaleb Andhyka Aprijadi
 Welcome To My Website
 
 I am an Enthusiastic Informatics student specializing in Front-End Development, Mobile Application Development, UI/UX Design, and QA Testing. Proficient in React, JavaScript, Kotlin, and Laravel, with experience in web and mobile projects. Passionate about building userfriendly applications and ensuring high software quality through thorough testing. Actively seeking internship opportunities in Front-End Development, Mobile Application Development, UI/UX Design, or QA Testing. Please feel free to contact me regarding any relevant opportunities aligned with these interests.
+=======
+Hello! My Name Is Khaleb Andhyka Aprijadi
+This is My Portofolio Website
+
+I am an Enthusiastic Informatics student specializing in Front-End Development, Mobile Application Development, UI/UX Design, and QA Testing. Proficient in React, JavaScript, Kotlin, and Laravel, with experience in web and mobile projects. Passionate about building userfriendly applications and ensuring high software quality through thorough testing. Actively seeking internship opportunities in Front-End Development, Mobile Application Development, UI/UX Design, or QA Testing. Please feel free to contact me regarding any relevant opportunities aligned with these interests.
+>>>>>>> 390524fb0fc2d5737f314d102b9aa286c9cc7a24
