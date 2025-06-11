@@ -45,7 +45,7 @@ function App() {
         {
           id: 2,
           title: "Vego Mobile Application Development",
-          description: "Developed the Vego Mobile Application from a Figma prototype using React Native and JavaScript, focusing on backend integration with Supabase. Handled authentication, real-time database, and media storage, ensuring seamless user experience and secure data management across the app.",
+          description: "Built the Vego App from a Figma prototype using React Native and JavaScript, handling backend tasks with Supabase for authentication, database, and storage.",
           tools: ["React", "Javascript", "Expo", "Supabase", "Authentication", "Database"],
           links: {
             github: "https://github.com/nathaniamnbe/vego2",
