@@ -399,7 +399,7 @@ function App() {
                             </Link>
                           </div>
                           <ProjectShowcase
-                            projects={projects.slice(0, 4)}
+                            projects={projects.slice(0, 3)}
                             theme={theme}
                             themeChanging={themeChanging}
                           />
