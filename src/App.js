@@ -27,56 +27,6 @@ function App() {
       const dummyProjects = [
         {
           id: 1,
-          title: "Website Nusa Food",
-          description: "Indonesian food exhibition website that displays various types of culinary from all over Indonesia.",
-          tools: ["React", "Javascript", "HTML", "CSS"],
-          links: {
-            github: "https://github.com/imwepe/nusafood-UAS-Project",
-            live: "https://nusafoodwebsite.vercel.app/",
-          },
-          progress: 100,
-          updates: [
-            { date: "2023-05-23", content: "Participate in UMN Student Website Exhibition" },
-            { date: "2023-04-20", content: "Adding shopping cart feature" },
-          ],
-          image: "/nuzafood.png",
-        },
-        {
-          id: 2,
-          title: "Saint Barnabas Catholic Church Website",
-          description: "Developing the Website of Saint Barnabas Catholic Church",
-          tools: ["PHP", "Laravel", "Tailwind"],
-          links: {
-            github: "https://github.com/ravinwoenarsooo/SantoBarnabas",
-            live: "https://www.santobarnabas.org/",
-          },
-          progress: 100,
-          updates: [
-            { date: "2023-12-22", content: "Website Published" },
-            { date: "2023-12-03", content: "The project was completed and displayed in front of the congregation and church management." },
-            { date: "2023-10-24", content: "The project was initiated" },
-          ],
-          image: "/santobarnabas.png",
-        },
-        {
-          id: 3,
-          title: "BazaarSpot Mobile App Design",
-          description: "Full-stack designer for BazaarSpot, creating concepts, personas, and UI/UX designs with Figma, and developing key features for the mobile bazaar app.",
-          tools: ["React", "Figma", "GitHub"],
-          links: {
-            github: "https://github.com/username/task-manager",
-            live: "https://www.figma.com/design/LWSMLilWQFdc623IY3r430/Prototype-BazaarSpot?node-id=0-1&t=wOjJEr9YYzHyBy6h-1",
-          },
-          progress: 100,
-          updates: [
-            { date: "2024-05-21", content: "Featured At UMN Figma Prototype Exhibition" },
-            { date: "2024-05-20", content: "Overall Completed Prototype" },
-            { date: "2024-03-25", content: "Project Initiated" },
-          ],
-          image: "/bazaarspot.png",
-        },
-        {
-          id: 4,
           title: "U-Journal Mobile Application",
           description: "Developed the U-Journal application as a full-stack developer using Kotlin and Jetpack Compose, implementing a responsive UI, smooth navigation, and note management features including photo and geolocation support",
           tools: ["Kotlin", "Jetpack Compose", "XML", "Firebase", "Firebase Emulator"],
@@ -93,7 +43,23 @@ function App() {
           image: "/ujurnal.png",
         },
         {
-          id: 5,
+          id: 2,
+          title: "Vego Mobile Application Development",
+          description: "Developed the Vego Mobile Application from a Figma prototype using React Native and JavaScript, focusing on backend integration with Supabase. Handled authentication, real-time database, and media storage, ensuring seamless user experience and secure data management across the app.",
+          tools: ["React", "Javascript", "Expo", "Supabase", "Authentication", "Database"],
+          links: {
+            github: "https://github.com/nathaniamnbe/vego2",
+            live: "https://github.com/nathaniamnbe/vego2",
+          },
+          progress: 100,
+          updates: [
+            { date: "2025-06-11", content: "Applications Published" },
+            { date: "2023-05-21", content: "Prototype Displayed at UMN Figma Prototype Exhibition" },
+          ],
+          image: "/vego.jpg",
+        },
+        {
+          id: 3,
           title: "Cloning UI of Ayo Indonesia Application",
           description: "Cloned the AYO Indonesia app as a Full-Stack UI/UX Designer using React Native, JavaScript, and TypeScript, replicating the original app's UI/UX and implementing fully functional navigation. ",
           tools: ["React", "Javascript", "Typescript", "Expo"],
@@ -108,20 +74,54 @@ function App() {
           image: "/ayoindo.png",
         },
         {
-          id: 6,
-          title: "Vego Mobile Application Development",
-          description: "Conducting Vego Mobile Application Development starting from a figma prototype",
-          tools: ["React", "Javascript", "Typescript", "Expo", "Firebase", "Firestore"],
+          id: 4,
+          title: "BazaarSpot Mobile App Design",
+          description: "Full-stack designer for BazaarSpot, creating concepts, personas, and UI/UX designs with Figma, and developing key features for the mobile bazaar app.",
+          tools: ["React", "Figma", "GitHub"],
           links: {
-            github: "https://github.com/nathaniamnbe/vego2",
-            live: "https://github.com/nathaniamnbe/vego2",
+            github: "https://github.com/username/task-manager",
+            live: "https://www.figma.com/design/LWSMLilWQFdc623IY3r430/Prototype-BazaarSpot?node-id=0-1&t=wOjJEr9YYzHyBy6h-1",
           },
           progress: 100,
           updates: [
-            { date: "2025-06-11", content: "Applications Published" },
-            { date: "2023-05-21", content: "Prototype Displayed at UMN Figma Prototype Exhibition" },
+            { date: "2024-05-21", content: "Featured At UMN Figma Prototype Exhibition" },
+            { date: "2024-05-20", content: "Overall Completed Prototype" },
+            { date: "2024-03-25", content: "Project Initiated" },
           ],
-          image: "/vego.jpg",
+          image: "/bazaarspot.png",
+        },
+        {
+          id: 5,
+          title: "Saint Barnabas Catholic Church Website",
+          description: "Developing the Website of Saint Barnabas Catholic Church",
+          tools: ["PHP", "Laravel", "Tailwind"],
+          links: {
+            github: "https://github.com/ravinwoenarsooo/SantoBarnabas",
+            live: "https://www.santobarnabas.org/",
+          },
+          progress: 100,
+          updates: [
+            { date: "2023-12-22", content: "Website Published" },
+            { date: "2023-12-03", content: "The project was completed and displayed in front of the congregation and church management." },
+            { date: "2023-10-24", content: "The project was initiated" },
+          ],
+          image: "/santobarnabas.png",
+        },
+        {
+          id: 6,
+          title: "Website Nusa Food",
+          description: "Indonesian food exhibition website that displays various types of culinary from all over Indonesia.",
+          tools: ["React", "Javascript", "HTML", "CSS"],
+          links: {
+            github: "https://github.com/imwepe/nusafood-UAS-Project",
+            live: "https://nusafoodwebsite.vercel.app/",
+          },
+          progress: 100,
+          updates: [
+            { date: "2023-05-23", content: "Participate in UMN Student Website Exhibition" },
+            { date: "2023-04-20", content: "Adding shopping cart feature" },
+          ],
+          image: "/nuzafood.png",
         },
       ]
 
@@ -399,7 +399,7 @@ function App() {
                             </Link>
                           </div>
                           <ProjectShowcase
-                            projects={projects.slice(3, 6)}
+                            projects={projects.slice(0, 4)}
                             theme={theme}
                             themeChanging={themeChanging}
                           />
