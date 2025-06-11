@@ -84,7 +84,7 @@ function App() {
             github: "https://github.com/khalebandhyka/UTS-UJournal_MAP_Kelompok4",
             live: "https://github.com/khalebandhyka/UTS-UJournal_MAP_Kelompok4",
           },
-          progress: 65,
+          progress: 100,
           updates: [
             { date: "Present", content: "Back-end Development Process using Firebase Emulator" },
             { date: "2025-04-09", content: "U-Journal Mobile App Front-End Completed and Functional" },
@@ -115,7 +115,7 @@ function App() {
             github: "https://github.com/nathaniamnbe/vego2",
             live: "https://github.com/nathaniamnbe/vego2",
           },
-          progress: 50,
+          progress: 100,
           updates: [
             { date: "Present", content: "Applications Under Development" },
             { date: "2023-05-21", content: "Prototype Displayed at UMN Figma Prototype Exhibition" },
