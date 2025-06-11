@@ -86,7 +86,8 @@ function App() {
           },
           progress: 100,
           updates: [
-            { date: "Present", content: "Back-end Development Process using Firebase Emulator" },
+            { date: "2025-06-11", content: "Application Published" },
+            { date: "2025-06-4", content: "Back-end Development Process using Firebase Emulator" },
             { date: "2025-04-09", content: "U-Journal Mobile App Front-End Completed and Functional" },
           ],
           image: "/ujurnal.png",
@@ -117,7 +118,7 @@ function App() {
           },
           progress: 100,
           updates: [
-            { date: "Present", content: "Applications Under Development" },
+            { date: "2025-06-11", content: "Applications Published" },
             { date: "2023-05-21", content: "Prototype Displayed at UMN Figma Prototype Exhibition" },
           ],
           image: "/vego.jpg",
