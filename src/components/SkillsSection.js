@@ -35,6 +35,7 @@ function SkillsSection({ theme, themeChanging }) {
     { name: "Android Studio", logo: "https://upload.wikimedia.org/wikipedia/commons/c/c1/Android_Studio_icon_%282023%29.svg" },
     { name: "Visual Studio Code", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" },
     { name: "Figma", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" },
+    { name: "MySQL", logo: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.svgrepo.com%2Fsvg%2F354099%2Fmysql&psig=AOvVaw3_ZnQeqsVRpBbjdylux3Vi&ust=1750091363065000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIifncLs840DFQAAAAAdAAAAABAU" },
   ]
 
   return (
