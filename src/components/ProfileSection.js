@@ -142,7 +142,7 @@ function ProfileSection({ theme, themeChanging }) {
           animation: themeChanging ? "textFade 1s" : "none",
         }}
       >
-        Enthusiastic Informatics student specializing in Front-End Development, Mobile Application Development, UI/UX Design, and QA Testing.
+        Enthusiastic Informatics student passionate about Front-End, Mobile, and Python Development, with strong problem-solving skills and interest in Backend Development. Skilled in Python for scripting, data processing, and building internal tools. Experienced with React Native, JavaScript, Kotlin, Laravel, and Python for both user-experience and system-level applications.
       </p>
 
       {/* Download CV Button */}
