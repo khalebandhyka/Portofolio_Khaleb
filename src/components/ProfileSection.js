@@ -142,7 +142,7 @@ function ProfileSection({ theme, themeChanging }) {
           animation: themeChanging ? "textFade 1s" : "none",
         }}
       >
-        Enthusiastic Informatics student passionate about Front-End, Mobile, and Python Development, with strong problem-solving skills and interest in Backend Development. Skilled in Python for scripting, data processing, and building internal tools. Experienced with React Native, JavaScript, Kotlin, Laravel, and Python for both user-experience and system-level applications.
+        Informatics student passionate about Front-End, Mobile, and Python Development, with strong problem-solving skills and growing interest in Backend. Experienced in Python, React Native, Kotlin, Laravel, and JavaScript for both UI and system-level work.
       </p>
 
       {/* Download CV Button */}
