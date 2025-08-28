@@ -152,19 +152,19 @@ function App() {
       },
       {
         id: 3,
-        title: "Starlight UMN 2024",
-        date: "12 December 2024",
-        content: "Coordinated a 24-person team to manage logistics, regulations, and access for the Starlight event, ensuring smooth operations through strong leadership and detailed planning.",
-        tags: ["Leadership", "Communication", "Problem Solving"],
-        image: "/starlight.jpg",
-      },
-      {
-        id: 4,
         title: "Obscura Exhibition UMN 2024",
         date: "6 September 2024",
         content: "Served as a committee member in Obscura Exhibition 2024, assisting in the creation and enforcement of event regulations, and performing scheduled security duties to maintain order and ensure smooth event operations.",
         tags: ["Problem Solving", "Attention to Detail", "Teamwork"],
         image: "/obscura.jpg",
+      },
+      {
+        id: 4,
+        title: "Starlight UMN 2024",
+        date: "12 December 2024",
+        content: "Coordinated a 24-person team to manage logistics, regulations, and access for the Starlight event, ensuring smooth operations through strong leadership and detailed planning.",
+        tags: ["Leadership", "Communication", "Problem Solving"],
+        image: "/starlight.jpg",
       },
       {
         id: 5,
