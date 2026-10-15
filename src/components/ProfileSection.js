@@ -90,8 +90,8 @@ function ProfileSection({ theme, themeChanging }) {
 
       <div
         style={{
-          width: "250px",
-          height: "250px",
+          width: "150px",
+          height: "150px",
           borderRadius: "50%",
           overflow: "hidden",
           margin: "0 auto 20px",
