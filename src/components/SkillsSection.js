@@ -23,19 +23,19 @@ function SkillsSection({ theme, themeChanging }) {
   const currentTheme = themeStyles[theme]
 
   const skills = [
-    { name: "Java", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" },
-    { name: "JavaScript", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" },
-    { name: "Kotlin", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" },
-    { name: "HTML", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" },
-    { name: "CSS", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" },
-    { name: "Tailwind CSS", logo: "https://tailwindcss.com/_next/static/media/tailwindcss-mark.d52e9897.svg" },
-    { name: "Laravel", logo: "https://cdn.brandfetch.io/ide68-31CH/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" },
-    { name: "PHP", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" },
-    { name: "React Native", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" },
-    { name: "Android Studio", logo: "https://upload.wikimedia.org/wikipedia/commons/c/c1/Android_Studio_icon_%282023%29.svg" },
-    { name: "Visual Studio Code", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" },
-    { name: "Python", logo: "https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" },
-  ]
+  { name: "Python", logo: "https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" },
+  { name: "JavaScript", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" },
+  { name: "TypeScript", logo: "https://commons.wikimedia.org/wiki/File:Typescript_logo_2020.svg" },
+  { name: "Kotlin", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" },
+  { name: "React Native", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" },
+  { name: "Jetpack Compose", logo: "https://cdn.simpleicons.org/jetpackcompose/4285F4" },
+  { name: "Flask", logo: "https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-icon~v2.svg" },
+  { name: "FastAPI", logo: "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/fastapi.svg" },
+  { name: "PostgreSQL", logo: "https://commons.wikimedia.org/wiki/File:Postgresql_elephant.svg" },
+  { name: "MySQL", logo: "file:///C:/ASUS/portofolio_khaleb/portofolio-khaleb/public/mysql-logo-svgrepo-com.svg" },
+  { name: "Tailwind CSS", logo: "https://tailwindcss.com/_next/static/media/tailwindcss-mark.d52e9897.svg" },
+  { name: "GitHub", logo: "https://commons.wikimedia.org/wiki/File:Octicons-mark-github.svg" },
+];
 
   return (
     <div
