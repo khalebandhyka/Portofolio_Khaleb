@@ -142,7 +142,7 @@ function ProfileSection({ theme, themeChanging }) {
           animation: themeChanging ? "textFade 1s" : "none",
         }}
       >
-        Informatics student passionate about Front-End, Mobile, and Python Development, with strong problem-solving skills and growing interest in Backend. Experienced in Python, React Native, Kotlin, Laravel, and JavaScript for both UI and system-level work.
+        Informatics graduate from Universitas Multimedia Nusantara with hands-on experience through a professional internship as a Full-Stack Developer at Alfamart. Focused on Full-Stack Development, with working experience in Mobile Development. Proficient in React, JavaScript, Python, Flask, FastAPI, PostgreSQL, and Oracle SQL, demonstrated through building and automating end-to-end internal reporting and approval systems applying manual and automation testing throughout development. Experienced in building web applications, backend services, and automation tools for internal business systems.
       </p>
 
       {/* Download CV Button */}
