@@ -104,7 +104,7 @@ function ProfileSection({ theme, themeChanging }) {
         }}
       >
         <img
-          src="/foto-khaleb.jpg"
+          src="/foto-khaleb-prof.jpg"
           alt="Khaleb Andhyka Aprijadi"
           style={{
             width: "100%",
